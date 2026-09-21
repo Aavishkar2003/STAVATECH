@@ -137,10 +137,8 @@ cards.forEach(function (card) {
 
 /*VISIT COUNTER */
 
-
 //for reseting count to 0:
 //localStorage.setItem("visitCount", 0);
-
 
 let visits = localStorage.getItem("visitCount");
 
@@ -187,3 +185,35 @@ const repairAnimation = setInterval(() => {
   repairCounter.textContent = repairCurrent + "+";
 }, 20);
 
+function changeImage(button, direction) {
+  const slider = button.closest(".card-image-slider");
+
+  const mainImage = slider.querySelector(":scope > img");
+
+  const images = slider.querySelectorAll(".slider-images img");
+
+  let currentIndex = 0;
+
+  // Find the current image
+  images.forEach((image, index) => {
+    if (image.src === mainImage.src) {
+      currentIndex = index;
+    }
+  });
+
+  // Move to next/previous image
+  currentIndex += direction;
+
+  //last image from first
+  if (currentIndex < 0) {
+    currentIndex = images.length - 1;
+  }
+
+  //first image after last
+  if (currentIndex >= images.length) {
+    currentIndex = 0;
+  }
+
+  // Change image
+  mainImage.src = images[currentIndex].src;
+}
