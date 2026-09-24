@@ -1,4 +1,4 @@
-# StavaTech Website – Developer Notes
+#Developer Notes
 
 ## 1. Change Request: Automation Page
 
