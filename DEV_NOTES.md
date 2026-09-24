@@ -69,8 +69,6 @@ Add a Request for Quote (RFQ) feature to the website.
 
 Developer Name
 
----
-
 ## 3. Change Request: AI & Computer Vision Page
 
 ### Requested Changes
