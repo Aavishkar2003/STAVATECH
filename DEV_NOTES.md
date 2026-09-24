@@ -28,21 +28,14 @@ The Automation page should contain only automation-related information, products
 * [ ] Make page responsive
 * [ ] Test all links and buttons
 
-### Priority
-
-**High**
-
 ### Status
-
 **In Progress**
 
 ### Assigned To
-
 Developer Name
 
 ### Notes
-
-Do not add unrelated AI, IoT, electronics repair, or medical repair content to this page.
+Unrelated AI, IoT, electronics repair, or medical repair content not to be added to this page.
 
 ---
 
