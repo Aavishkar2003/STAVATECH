@@ -37,12 +37,10 @@ Developer Name
 ### Notes
 Unrelated AI, IoT, electronics repair, or medical repair content not to be added to this page.
 
----
 
 ## 2. Change Request: RFQ System
 
 ### Requested Changes
-
 Add a Request for Quote (RFQ) feature to the website.
 
 ### Developer Tasks
@@ -57,22 +55,15 @@ Add a Request for Quote (RFQ) feature to the website.
 * [ ] Test submission
 * [ ] Add success/error messages
 
-### Priority
-
-**High**
-
 ### Status
-
 **Not Started**
 
 ### Assigned To
-
 Developer Name
 
 ## 3. Change Request: AI & Computer Vision Page
 
 ### Requested Changes
-
 Create a dedicated page containing only AI and Computer Vision related services, products, applications, and solutions.
 
 ### Developer Tasks
@@ -86,14 +77,8 @@ Create a dedicated page containing only AI and Computer Vision related services,
 * [ ] Make responsive
 * [ ] Test page
 
-### Priority
-
-**Medium**
-
 ### Status
-
 **Not Started**
 
 ### Assigned To
-
 Developer Name
