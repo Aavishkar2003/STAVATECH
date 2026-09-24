@@ -32,7 +32,7 @@ The Automation page should contain only automation-related information, products
 **In Progress**
 
 ### Assigned To
-Developer Name
+
 
 ### Notes
 Unrelated AI, IoT, electronics repair, or medical repair content not to be added to this page.
@@ -56,10 +56,10 @@ Add a Request for Quote (RFQ) feature to the website.
 * [ ] Add success/error messages
 
 ### Status
-**Not Started**
+
 
 ### Assigned To
-Developer Name
+
 
 ## 3. Change Request: AI & Computer Vision Page
 
@@ -68,7 +68,7 @@ Create a dedicated page containing only AI and Computer Vision related services,
 
 ### Developer Tasks
 
-[ ] Create page
+* [ ] Create page
 * [ ] Add AI solutions
 * [ ] Add Computer Vision solutions
 * [ ] Add applications
