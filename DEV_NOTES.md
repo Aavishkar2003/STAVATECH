@@ -68,7 +68,7 @@ Create a dedicated page containing only AI and Computer Vision related services,
 
 ### Developer Tasks
 
-* [ ] Create page
+[ ] Create page
 * [ ] Add AI solutions
 * [ ] Add Computer Vision solutions
 * [ ] Add applications
@@ -78,7 +78,6 @@ Create a dedicated page containing only AI and Computer Vision related services,
 * [ ] Test page
 
 ### Status
-**Not Started**
+
 
 ### Assigned To
-Developer Name
